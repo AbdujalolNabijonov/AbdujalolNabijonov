@@ -6,9 +6,9 @@
 <img style="margin:20px;"  align="right" alt="Hello world gif" src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" height="300" width="500" />
 - 👀 I’m interested in Coding and Problem Solving
 
-- 👍 Like professional knowledge of technologies in JavaScript, TypeScript, React, NodeJS, ExpressJS and MongoDB. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
+- 👍 Like professional knowledge of technologies in JavaScript, TypeScript, React, NodeJS, ExpressJS and MongoDB, ReactNative. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
 
-- 👨🏻‍💻 Currenly I'm doing  practices with MERN Stack, NestJs/NextJs with GraphQL queries.
+- 👨🏻‍💻 Currenly I'm doing  practices with MERN Stack, ReactNative, NestJs/NextJs with GraphQL queries.
 
 - 🌱 I didn't stop to learn, also I'm learning NodeJS in advanced level and React.
 - 📫 mrarnoldunlimited@gmail.com
@@ -48,6 +48,26 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/>
+ <img src="https://skillicons.dev/icons?i=aws" width="50"/>
+ <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+ <img src="https://skillicons.dev/icons?i=apple" width="50"/>
+ <img src="https://skillicons.dev/icons?i=codepen" width="50"/>
+ <img src="https://skillicons.dev/icons?i=django" width="50"/>
+ <img src="https://skillicons.dev/icons?i=apollo" width="50"/>
+ <img src="https://skillicons.dev/icons?i=express" width="50"/>
+ <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+ <img src="https://skillicons.dev/icons?i=heroku" width="50"/>
+ <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+ <img src="https://skillicons.dev/icons?i=nginx" width="50"/>
+ <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+ <img src="https://skillicons.dev/icons?i=prisma" width="50"/>
+ <img src="https://skillicons.dev/icons?i=pycharm" width="50"/>
+ <img src="https://skillicons.dev/icons?i=redis" width="50"/>
+ <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
+ <img src="https://skillicons.dev/icons?i=svg" width="50"/>
+ <img src="https://skillicons.dev/icons?i=threejs" width="50"/>
+ <img src="https://skillicons.dev/icons?i=webstorm" width="50"/>
+ <img src="https://skillicons.dev/icons?i=windows" width="50"/>
  </div>
  <br /> 
  

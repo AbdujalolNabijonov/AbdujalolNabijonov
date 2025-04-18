@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Abdujalol+Nabijonov;Alex+for+sure+:)&color=cyan&center=true" />
 </div>
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->

@@ -6,11 +6,11 @@
 <img style="margin:20px;"  align="right" alt="Hello world gif" src="https://miro.medium.com/v2/resize:fit:1080/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif" height="300" width="500" />
 - 👀 I’m interested in Coding and Problem Solving
 
-- 👍 Like professional knowledge of technologies in JavaScript, TypeScript, React, NodeJS, ExpressJS and MongoDB, ReactNative. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
-
+- 👍 Like professional knowledge of technologies in JavaScript, TypeScript, React, NodeJS, ExpressJS and MongoDB,
+- PostgreSQL ReactNative. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
 - 👨🏻‍💻 Currenly I'm doing  practices with MERN Stack, ReactNative, NestJs/NextJs with GraphQL queries.
-
-- 🌱 I didn't stop to learn, also I'm learning NodeJS in advanced level and React.
+- ☕︎ & 🍃 Also Currently bulding backend app using Java and Spring boot framework
+- 🌱  I didn't stop to learn, also I always explore new Tech Stack Skills.
 - 📫 mrarnoldunlimited@gmail.com
 
 
@@ -68,6 +68,9 @@
  <img src="https://skillicons.dev/icons?i=threejs" width="50"/>
  <img src="https://skillicons.dev/icons?i=webstorm" width="50"/>
  <img src="https://skillicons.dev/icons?i=windows" width="50"/>
+ <img src="https://skillicons.dev/icons?i=java" width="50"/>
+ <img src="https://skillicons.dev/icons?i=spring" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
  </div>
  <br /> 
  
@@ -79,7 +82,7 @@
 <br/>
 <br/>
 <img width="60%" src='https://github-readme-stats.vercel.app/api?username=AbdujalolNabijonov&show_icons=true&theme=radical'/>
-<img width="60%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalolNabijonov&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />
+<img width="60%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalolNabijonov&langs_count=10&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />
 
 <!---
 AbdujalolAndy/AbdujalolAndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

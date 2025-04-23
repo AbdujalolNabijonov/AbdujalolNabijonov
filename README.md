@@ -71,6 +71,7 @@
  <img src="https://skillicons.dev/icons?i=java" width="50"/>
  <img src="https://skillicons.dev/icons?i=spring" width="50"/>
   <img src="https://skillicons.dev/icons?i=postgresql" width="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50"/>
  </div>
  <br /> 
  

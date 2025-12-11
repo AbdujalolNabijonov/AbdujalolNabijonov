@@ -81,9 +81,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdujalolNabijonov/AbdujalolNabijonov/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<br/>
-<img width="60%" src='https://github-readme-stats.vercel.app/api?username=AbdujalolNabijonov&show_icons=true&theme=radical'/>
-<img width="60%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalolNabijonov&langs_count=10&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />
+
 
 <!---
 AbdujalolAndy/AbdujalolAndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

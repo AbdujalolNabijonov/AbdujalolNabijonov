@@ -1,5 +1,5 @@
  <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Abdujalol+Nabijonov;Alex+for+sure+:)&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Abdujalol+Nabijonov;My+nickname:+Andy+:)&color=cyan&center=true" />
 </div>
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 <img  src="https://img.shields.io/youtube/channel/subscribers/UCBI6_Pnm_tBbcRiRGjXLl3w?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge"/>
@@ -7,8 +7,8 @@
 - 👀 I’m interested in Coding and Problem Solving
 
 - 👍 Like professional knowledge of technologies in JavaScript, TypeScript, React, NodeJS, ExpressJS and MongoDB,
-- PostgreSQL ReactNative. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
-- 👨🏻‍💻 Currenly I'm doing  practices with MERN Stack, ReactNative, NestJs/NextJs with GraphQL queries.
+- PostgreSQL ReactNative and Flutter. learning  Python and more JavaScript frameworks: EJS, Joi, mongoose and so on.
+- 👨🏻‍💻 Currenly I'm doing  practices with MERN Stack, ReactNative, Flutter NestJs/NextJs with GraphQL queries.
 - ☕︎ & 🍃 Also Currently bulding backend app using Java and Spring boot framework
 - 🌱  I didn't stop to learn, also I always explore new Tech Stack Skills.
 - 📫 mrarnoldunlimited@gmail.com
